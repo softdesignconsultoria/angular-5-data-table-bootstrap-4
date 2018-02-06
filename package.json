@@ -1,11 +1,11 @@
 {
-  "name": "angular-4-data-table-bootstrap-4",
-  "version": "0.2.0",
-  "description": "An Angular 4 data table, with pagination, sorting, expandable rows etc. Bootstrap 4 version.",
+  "name": "angular-5-data-table-bootstrap-4",
+  "version": "0.0.1",
+  "description": "An Angular 5 data table, with pagination, sorting, expandable rows etc. Bootstrap 4 version.",
   "keywords": [
     "angular",
-    "angular4",
-    "Angular 4",
+    "angular5",
+    "Angular 5",
     "ng2",
     "datatable",
     "data-table",
@@ -24,27 +24,27 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:afermon/angular-4-data-table-bootstrap-4.git"
+    "url": "git@github.com:softdesignconsultoria/angular-5-data-table-bootstrap-4.git"
   },
   "peerDependencies": {
     "@angular/core": "^4.0.1"
   },
-  "author": "afermon <alex@xicre.com>",
+  "author": "softdesignconsultoria <ernani.ely@softdesign.com.br>",
   "license": "MIT",
   "devDependencies": {
-    "@angular/compiler": "^4.4.4",
-    "@angular/compiler-cli": "^4.4.4",
+    "@angular/compiler": "^5.0.0",
+    "@angular/compiler-cli": "^5.0.0",
     "rollup": "^0.50.0",
     "typescript": "^2.5.3",
     "uglify-js": "^3.1.3"
   },
   "dependencies": {
-    "@angular/common": "^4.0.1",
-    "@angular/core": "^4.0.1",
-    "@angular/forms": "^4.0.1",
-    "@angular/platform-browser": "^4.2.5",
-    "@angular/platform-browser-dynamic": "^4.0.1",
-    "@angular/platform-server": "^4.4.4",
+    "@angular/common": "^5.0.0",
+    "@angular/core": "^5.0.0",
+    "@angular/forms": "^5.0.0",
+    "@angular/platform-browser": "^5.0.0",
+    "@angular/platform-browser-dynamic": "^5.0.0",
+    "@angular/platform-server": "^5.0.0",
     "@types/node": "~8.0.33",
     "rxjs": "^5.1.0",
     "ts-node": "~3.3.0",
@@ -52,7 +52,7 @@
   },
   "false": {},
   "bugs": {
-    "url": "https://github.com/afermon/angular-4-data-table-bootstrap-4/issues"
+    "url": "https://github.com/softdesignconsultoria/angular-5-data-table-bootstrap-4/issues"
   },
-  "homepage": "https://github.com/afermon/angular-4-data-table-bootstrap-4/"
+  "homepage": "https://github.com/softdesignconsultoria/angular-5-data-table-bootstrap-4/"
 }
